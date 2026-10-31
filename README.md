@@ -29,7 +29,7 @@ It comes with Chapters 1 and 2 ready to play, and an editor so you can make your
 
 - 📖 **V3-style comic pages.** Page flipping, the panel stock, hints, the red circle and blue X, the timer and the health bar.
 - 🎬 **Read-through at the end.** Your finished comic plays back panel by panel, with subtitles, voice lines, sounds and screen effects.
-- 🛠️ **Page Builder.** Make your own pages and panels, set the answers and hints, and use your own pictures.
+- 🛠️ **Page Builder.** Start from any of V3's own pages (Chapters 1 to 6) or draw your own panels, then set the "?"s, the answers, the hints and your own pictures.
 - 🎞️ **Read-through editor.** Animate every picture with Premiere-style keyframes, 40+ ready-made motions (walk up, sneak in, drop in...), effects, and a timeline window with snapping clips.
 - 💀 **Game Over and Time Up events.** Build what happens with Danganmake's own dialogue editor: lines, music, HUD, character sprites and the *"Would you like to retry?"* question.
 - 🎮 **Controller support.** Play with a gamepad, and the button prompts switch to match.
@@ -96,6 +96,28 @@ Insert the minigame in Danganmake's editor and its settings open:
     </td>
   </tr>
 </table>
+
+### 📐 Page Builder
+
+<p align="center"><img src="docs/pagebuilder.jpg" alt="Page Builder" width="100%"></p>
+
+The Page Builder is where you make the comic yourself: the pages, their panels, which panels are a **"?"**, and what the player gets to put in them.
+
+**Start a page.** Press **Add a V3 page** to start from any page of V3's Chapters 1 to 6, with its art, panels and "?"s already in place, or **Add a blank page** to draw everything yourself.
+
+<p align="center"><img src="docs/pagebuilder_pages.jpg" alt="Choosing a V3 page" width="100%"></p>
+
+**Build it, step by step:**
+
+1. **Draw your panels** with the tools above the page: **Rectangle**, **Slanted**, **Circle**, **Burst**, **More shapes**, **Click points** (a shape of your own, corner by corner) or **Draw it** (freehand). Drag a panel to move it, and use its corners to reshape it.
+2. **Click a panel** to set it up on the right: give it a **picture**, tick **This panel is a "?" the player fills**, or adjust its corners.
+3. **Fill the stock.** Every "?" panel goes into **Your stock**, the panels the player picks from.
+4. **Use Quick panels** to drop in ready-made pictures from the game (242 of them), or add your own.
+5. **Order the pages** with **Copy**, **Earlier**, **Later** and **Delete**. Undo and Redo work everywhere.
+6. Press **See it in the game** to play it right away, then **Done**.
+
+> [!NOTE]
+> A "?" panel without a picture is left out of the puzzle until it has one. The yellow line under the page tells you what's still missing.
 
 ### The read-through editor
 
