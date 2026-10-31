@@ -1,1 +1,1 @@
-# Closing Arguemnt V3 Custom Minigame for Danganmake
+# Closing Arguement V3 Custom Minigame for Danganmake
