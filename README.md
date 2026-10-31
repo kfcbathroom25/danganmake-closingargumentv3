@@ -1,0 +1,124 @@
+<p align="center">
+  <img src="docs/banner.png" alt="Closing Argument V3 - a Danganmake minigame by kfcbathroom" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases/latest"><img src="https://img.shields.io/github/v/release/kfcbathroom25/danganmake-closingargumentv3?style=for-the-badge&label=latest&color=ff4fc3&labelColor=2a0a3c" alt="Latest release"></a>
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases"><img src="https://img.shields.io/github/downloads/kfcbathroom25/danganmake-closingargumentv3/total?style=for-the-badge&color=ff4fc3&labelColor=2a0a3c" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/made%20for-Danganmake-ff4fc3?style=for-the-badge&labelColor=2a0a3c" alt="Made for Danganmake">
+  <img src="https://img.shields.io/badge/controller-supported-ff4fc3?style=for-the-badge&labelColor=2a0a3c" alt="Controller supported">
+</p>
+
+<p align="center">
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases/latest"><img src="docs/download.png" alt="Download" width="340"></a>
+</p>
+
+<p align="center">
+  <img src="docs/gameplay.gif" alt="Closing Argument V3 gameplay" width="88%">
+</p>
+
+---
+
+## 🧩 What is it?
+
+**Closing Argument V3** brings Danganronpa V3's comic-book Closing Argument to your Danganmake trials. The crime is drawn as a comic with blank **"?"** panels. Flip through the pages, pick the right panel from your stock, and drop it into place until the whole case is rebuilt. When it's done, the finished comic plays back as a read-through with subtitles, voices and motion.
+
+It comes with Chapters 1 and 2 ready to play, and an editor so you can make your own comics.
+
+## ✨ Features
+
+- 📖 **V3-style comic pages.** Page flipping, the panel stock, hints, the red circle and blue X, the timer and the health bar.
+- 🎬 **Read-through at the end.** Your finished comic plays back panel by panel, with subtitles, voice lines, sounds and screen effects.
+- 🛠️ **Page Builder.** Make your own pages and panels, set the answers and hints, and use your own pictures.
+- 🎞️ **Read-through editor.** Animate every picture with Premiere-style keyframes, 40+ ready-made motions (walk up, sneak in, drop in...), effects, and a timeline window with snapping clips.
+- 💀 **Game Over and Time Up events.** Build what happens with Danganmake's own dialogue editor: lines, music, HUD, character sprites and the *"Would you like to retry?"* question.
+- 🎮 **Controller support.** Play with a gamepad, and the button prompts switch to match.
+- 🔊 **Danganmake's characters and sounds.** Voices and sounds are picked from Danganmake's own menus.
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/shot_page.jpg" alt="Choosing a panel"></td>
+    <td width="50%"><img src="docs/shot_correct.jpg" alt="The right panel"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Pick a panel from the stock and find its "?"</sub></td>
+    <td align="center"><sub>The right panel snaps into the comic</sub></td>
+  </tr>
+</table>
+
+## 📥 How to install
+
+1. Go to the **[Releases page](https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases/latest)** and download the latest `.zip`.
+2. Unzip it.
+3. Drop the folders inside into your Danganmake **mods assets** folder.
+4. That's it! **Closing Argument V3** now shows up in Danganmake's minigames.
+
+> [!TIP]
+> When a new version comes out, download it the same way and replace the old folders.
+
+## 🎮 Controls
+
+<p align="center">
+  <img src="docs/controls.png" alt="Controls for keyboard, mouse and controller" width="92%">
+</p>
+
+<details>
+<summary>Controls as text</summary>
+
+| Action | Keyboard & mouse | Controller |
+| --- | --- | --- |
+| Move the cursor | Mouse / arrow keys | Left stick |
+| Put the panel in a "?" | Right-click / Enter / Space | A |
+| Choose a panel | Mouse wheel / W A S D | D-pad / right stick |
+| Turn the page | Q / E | L1 / R1 |
+| Read-through: next line | Click / Enter | A |
+| Read-through: auto | Space | Y |
+
+</details>
+
+## 🖌️ Make your own case
+
+Insert the minigame in Danganmake's editor and its settings open:
+
+<table>
+  <tr>
+    <td width="32%" valign="top"><img src="docs/editor_settings.jpg" alt="Settings panel"></td>
+    <td valign="top">
+      <ul>
+        <li><b>Page Builder:</b> make your own comic pages, panels, answers and hints.</li>
+        <li><b>Read-Through:</b> edit the playback that runs when the comic is complete.</li>
+        <li><b>Game Over / Time Up:</b> what happens when health or time runs out.</li>
+        <li><b>Config / Audio / Cut-in / Background / Music / Fonts:</b> time limit, damage, intro, songs, colours and more.</li>
+      </ul>
+      <p>Press <b>Insert</b> to save it into your trial.</p>
+    </td>
+  </tr>
+</table>
+
+### The read-through editor
+
+<p align="center"><img src="docs/editor_readthrough.jpg" alt="Read-through editor" width="100%"></p>
+
+Every page is a set of panels with pictures on them. Click a picture to move, resize or turn it. Give it an entrance, an exit, a motion or an effect, and write the script lines at the bottom.
+
+### Timeline and keyframes
+
+<p align="center"><img src="docs/editor_timeline.jpg" alt="Timeline window" width="100%"></p>
+
+The **Timeline** tab opens a big window like a video editor: the page on top, and every picture as a clip underneath. Clips snap to each other, to the script lines and to the playhead. In the **Keyframes** tab, click a stopwatch, move the playhead and change the picture. That's an animation.
+
+### Game Over / Time Up
+
+<p align="center"><img src="docs/editor_events.jpg" alt="Game over events" width="100%"></p>
+
+The same editor Danganmake uses for dialogue. Add lines, change the music or HUD, set someone's sprite, and place the **CONTINUE?** question.
+
+## 💬 Credits
+
+- **kfcbathroom**: Closing Argument V3 minigame
+- **[Power2015](https://github.com/Power2015Dev)** and **[FreddysDark-on](https://github.com/FreddysDark-on)**: Danganmake and the minigame template
+- [Danganmake documentation](https://power2015dev.github.io/Danganmake-Engine/content.html)
+
+<sub>Danganronpa is © Spike Chunsoft. This is a fan-made minigame and is not affiliated with Spike Chunsoft.</sub>
