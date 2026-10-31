@@ -1,1 +1,1 @@
-# danganmake-closingargumentv3
+# Closing Arguemnt V3 Custom Minigame for Danganmake
