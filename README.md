@@ -18,10 +18,6 @@
 
 ---
 
-## Closing Argument V3 has arrived!
-
-**Closing Argument V3** is now available as a custom minigame for Danganmake!
-
 ## Credits
 
 - **kfcbathroom**: Closing Argument V3 minigame
