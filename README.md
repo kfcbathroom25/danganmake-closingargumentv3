@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases"><img src="docs/btn_releases.png" alt="Releases - every version" width="250"></a>
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/issues/new?template=bug_report.yml"><img src="docs/btn_bugs.png" alt="Report bugs" width="250"></a>
+  <a href="https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source"><img src="docs/btn_more.png" alt="More minigames" width="250"></a>
   <a href="https://freddysdarkon.itch.io/danganmake"><img src="docs/btn_danganmake.png" alt="Danganmake - get it on itch.io" width="250"></a>
-  <img src="docs/btn_controller.png" alt="Controller fully supported" width="250">
 </p>
 
 <p align="center">
@@ -137,6 +137,19 @@ The **Timeline** tab opens a big window like a video editor: the page on top, an
 <p align="center"><img src="docs/editor_events.jpg" alt="Game over events" width="100%"></p>
 
 The same editor Danganmake uses for dialogue. Add lines, change the music or HUD, set someone's sprite, and place the **CONTINUE?** question.
+
+## 🐞 Found a bug?
+
+**[Report it here](https://github.com/kfcbathroom25/danganmake-closingargumentv3/issues/new?template=bug_report.yml)**. A short form asks what happened and how to make it happen again. Screenshots or a video help a lot.
+
+## 🎲 More minigames
+
+| Minigame | |
+| --- | --- |
+| **[Closing Argument DR2](https://github.com/kfcbathroom25/danganmake-closingargumentdr2)** | DR2's manga Closing Argument: drop the missing panels into the pages. |
+| **[Spot Selection DR2](https://github.com/kfcbathroom25/danganmake-spotselectiondr2)** | DR2's "Select a Suspicious Spot!": find what's wrong in the picture. |
+
+**[See every minigame by kfcbathroom](https://github.com/kfcbathroom25?tab=repositories&q=danganmake-&type=source)**
 
 ## 💬 Credits
 
