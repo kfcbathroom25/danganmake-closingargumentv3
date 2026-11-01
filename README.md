@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases/latest"><img src="https://img.shields.io/github/v/release/kfcbathroom25/danganmake-closingargumentv3?style=for-the-badge&label=latest&color=ff4fc3&labelColor=2a0a3c" alt="Latest release"></a>
-  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases"><img src="https://img.shields.io/github/downloads/kfcbathroom25/danganmake-closingargumentv3/total?style=for-the-badge&color=ff4fc3&labelColor=2a0a3c" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/made%20for-Danganmake-ff4fc3?style=for-the-badge&labelColor=2a0a3c" alt="Made for Danganmake">
-  <img src="https://img.shields.io/badge/controller-supported-ff4fc3?style=for-the-badge&labelColor=2a0a3c" alt="Controller supported">
+  <a href="https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases"><img src="docs/btn_releases.png" alt="Releases - every version" width="250"></a>
+  <a href="https://freddysdarkon.itch.io/danganmake"><img src="docs/btn_danganmake.png" alt="Danganmake - get it on itch.io" width="250"></a>
+  <img src="docs/btn_controller.png" alt="Controller fully supported" width="250">
 </p>
 
 <p align="center">
@@ -49,6 +48,8 @@ It comes with Chapters 1 and 2 ready to play, and an editor so you can make your
 </table>
 
 ## 📥 How to install
+
+Don't have Danganmake yet? **[Get it on itch.io](https://freddysdarkon.itch.io/danganmake)**.
 
 1. Go to the **[Releases page](https://github.com/kfcbathroom25/danganmake-closingargumentv3/releases/latest)** and download the latest `.zip`.
 2. Unzip it.
